@@ -8,8 +8,8 @@ set cursorline
 :colorscheme desert
 
 "let g:winManagerWindowLayout='FileExplorer|TagList'
-let g:winManagerWindowLayout='FileExplorer'
-nmap wm :WMToggle<cr>
+"let g:winManagerWindowLayout='FileExplorer'
+"nmap wm :WMToggle<cr>
 ":WMToggle
 
 :NERDTree
